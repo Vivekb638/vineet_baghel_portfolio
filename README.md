@@ -13,7 +13,7 @@
 
 ---
 
-## 🚀 About the Project
+## 🚀 About Project
 
 This is a totally bespoke, blazing-fast personal portfolio built from the ground up using **Next.js 15** (App Router), styled completely with the new **Tailwind v4**, and animated heavily with **Framer Motion**.
 
